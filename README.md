@@ -1,1 +1,1 @@
-# simulation_modeling_Pereverzev_Y226
+# Знакомство с системой имитационного моделирования GPSS World
