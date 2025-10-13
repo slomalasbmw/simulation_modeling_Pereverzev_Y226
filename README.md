@@ -1,1 +1,1 @@
-# simulation_modeling_Pereverzev_Y226
+# Моделирование случайных величин
